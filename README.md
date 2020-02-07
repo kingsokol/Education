@@ -7,3 +7,4 @@ line 2 test
 test stash
 
 f
+2com
