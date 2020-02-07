@@ -5,3 +5,5 @@ line 2 test
 файл 1 мастер
 
 test stash
+
+f
